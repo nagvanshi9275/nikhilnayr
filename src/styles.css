@@ -1,0 +1,118 @@
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.baap {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 30px;
+  width: 160px;
+  margin-top: 10px;
+}
+
+button {
+  height: 20px;
+  width: 180px;
+  margin-top: 20px;
+}
+
+.logout {
+  display: flex;
+  flex-direction: column;
+}
+
+.idea {
+  display: flex;
+  flex-direction: column;
+}
+
+.alw1 {
+  margin-top: 200px;
+}
+
+.zebra {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signin {
+  height: 15vh;
+  width: 60%;
+  border: 2px solid red;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.google {
+  display: flex;
+  flex-direction: row;
+}
+
+.googlepic {
+  font-size: 2px;
+}
+
+.dunza {
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sunder {
+  height: 50px;
+  width: 100px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 80px;
+  cursor: pointer;
+}
+
+.rema {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
